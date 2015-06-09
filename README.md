@@ -1,2 +1,3 @@
 # BackProp_NeuralNet
-an implementation of the backpropagation algorithm using Java
+
+Programming Assignment 2 for CS 440, Neural Networks
